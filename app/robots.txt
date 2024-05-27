@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://videobokepjepang.pages.dev/sitemap.xml
